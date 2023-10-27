@@ -1,5 +1,5 @@
 /*  
-PRN - 22070123092
+PRN - 22070123150
 Exp-12(Part-B)
 Defining the constructor inside the class*/
 #include<iostream>
